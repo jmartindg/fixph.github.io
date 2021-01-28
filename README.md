@@ -1,11 +1,11 @@
 # fixph.github.io
-Responsive Website Project
-Made with:
--HTML
--CSS
--SASS(SCSS)
+Responsive Website Project <br>
+<strong>Made with:<strong> <br>
+-HTML <br>
+-CSS <br>
+-SASS(SCSS) <br>
 
-Learned Skills:
--Responsive Web Design(Media Queries)
--Flexbox
--Creating Navbar using CSS
+<strong>Learned Skills:<strong> <br>
+-Responsive Web Design(Media Queries) <br>
+-Flexbox <br>
+-Creating Navbar using CSS <br>
